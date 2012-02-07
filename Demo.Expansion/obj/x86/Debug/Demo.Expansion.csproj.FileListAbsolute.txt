@@ -1,0 +1,9 @@
+C:\Tfs\TaxBuilder\Mainline\TaxBuilder\Demo.Expansion\Demo.Expansion\bin\Debug\Demo.Expansion.exe
+C:\Tfs\TaxBuilder\Mainline\TaxBuilder\Demo.Expansion\Demo.Expansion\bin\Debug\Demo.Expansion.pdb
+C:\Tfs\TaxBuilder\Mainline\TaxBuilder\Demo.Expansion\Demo.Expansion\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Tfs\TaxBuilder\Mainline\TaxBuilder\Demo.Expansion\Demo.Expansion\obj\x86\Debug\Demo.Expansion.Properties.Resources.resources
+C:\Tfs\TaxBuilder\Mainline\TaxBuilder\Demo.Expansion\Demo.Expansion\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Tfs\TaxBuilder\Mainline\TaxBuilder\Demo.Expansion\Demo.Expansion\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Tfs\TaxBuilder\Mainline\TaxBuilder\Demo.Expansion\Demo.Expansion\obj\x86\Debug\Demo.Expansion.exe
+C:\Tfs\TaxBuilder\Mainline\TaxBuilder\Demo.Expansion\Demo.Expansion\obj\x86\Debug\Demo.Expansion.pdb
+C:\Tfs\TaxBuilder\Mainline\TaxBuilder\Demo.Expansion\Demo.Expansion\obj\x86\Debug\Demo.Expansion.Form1.resources
