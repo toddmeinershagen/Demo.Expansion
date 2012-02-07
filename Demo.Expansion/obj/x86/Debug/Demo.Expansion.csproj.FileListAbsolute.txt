@@ -6,5 +6,4 @@ C:\Tfs\TaxBuilder\Mainline\TaxBuilder\Demo.Expansion\Demo.Expansion\obj\x86\Debu
 C:\Tfs\TaxBuilder\Mainline\TaxBuilder\Demo.Expansion\Demo.Expansion\obj\x86\Debug\GenerateResource.write.1.tlog
 C:\Tfs\TaxBuilder\Mainline\TaxBuilder\Demo.Expansion\Demo.Expansion\obj\x86\Debug\Demo.Expansion.exe
 C:\Tfs\TaxBuilder\Mainline\TaxBuilder\Demo.Expansion\Demo.Expansion\obj\x86\Debug\Demo.Expansion.pdb
-C:\Tfs\TaxBuilder\Mainline\TaxBuilder\Demo.Expansion\Demo.Expansion\obj\x86\Debug\Demo.Expansion.Form1.resources
 C:\Tfs\TaxBuilder\Mainline\TaxBuilder\Demo.Expansion\Demo.Expansion\obj\x86\Debug\Demo.Expansion.K1OptionsForm.resources

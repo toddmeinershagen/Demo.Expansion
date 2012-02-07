@@ -14,6 +14,7 @@ namespace Demo.Expansion
         private void BindOptions()
         {
             OptionsTableLayout.RowCount = Options.Count;
+            OptionsTableLayout.Controls.Clear();
 
             for (int i = 0; i < Options.Count; i++)
             {
@@ -22,9 +23,12 @@ namespace Demo.Expansion
 
                 var position = new TableLayoutPanelCellPosition(0, i);
                 OptionsTableLayout.SetCellPosition(button, position);
+                
                 OptionsTableLayout.Controls.Add(button);
             }
         }
+
+        private int _currentRowNumber = 0;
 
         private List<string> GetOptions()
         {
@@ -32,8 +36,12 @@ namespace Demo.Expansion
             var numberGenerator = new Random();
             var numberOfOptions = numberGenerator.Next(maxOptions);
 
+            if (_currentRowNumber < maxOptions)
+                _currentRowNumber++;
+
             var options = new List<string>();
             for (int i = 0; i < numberOfOptions; i++)
+            //for (int i = 0; i < _currentRowNumber; i++)
             {
                 options.Add(string.Format("Option{0}", i));
             }
