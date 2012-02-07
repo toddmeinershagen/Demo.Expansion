@@ -37,7 +37,6 @@
             this.CancelButton = new System.Windows.Forms.Button();
             this.panel1 = new System.Windows.Forms.Panel();
             this.K1OptionsGroupBox.SuspendLayout();
-            this.panel2.SuspendLayout();
             this.panel1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -45,13 +44,14 @@
             // 
             this.K1OptionsGroupBox.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Left | System.Windows.Forms.AnchorStyles.Right)));
             this.K1OptionsGroupBox.AutoSize = true;
+            this.K1OptionsGroupBox.Controls.Add(this.HorizontalLine);
             this.K1OptionsGroupBox.Controls.Add(this.cbSeparateFile);
             this.K1OptionsGroupBox.Controls.Add(this.panel2);
             this.K1OptionsGroupBox.Controls.Add(this.OptionsLayoutPanel);
             this.K1OptionsGroupBox.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.K1OptionsGroupBox.Location = new System.Drawing.Point(13, 207);
             this.K1OptionsGroupBox.Name = "K1OptionsGroupBox";
-            this.K1OptionsGroupBox.Size = new System.Drawing.Size(379, 369);
+            this.K1OptionsGroupBox.Size = new System.Drawing.Size(379, 302);
             this.K1OptionsGroupBox.TabIndex = 0;
             this.K1OptionsGroupBox.TabStop = false;
             this.K1OptionsGroupBox.Text = "K-1 Package Options:";
@@ -64,7 +64,7 @@
             this.cbSeparateFile.Checked = true;
             this.cbSeparateFile.CheckState = System.Windows.Forms.CheckState.Checked;
             this.cbSeparateFile.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.cbSeparateFile.Location = new System.Drawing.Point(7, 285);
+            this.cbSeparateFile.Location = new System.Drawing.Point(7, -592);
             this.cbSeparateFile.Name = "cbSeparateFile";
             this.cbSeparateFile.Size = new System.Drawing.Size(222, 17);
             this.cbSeparateFile.TabIndex = 1;
@@ -75,8 +75,7 @@
             // 
             this.panel2.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)
                         | System.Windows.Forms.AnchorStyles.Right)));
-            this.panel2.Controls.Add(this.HorizontalLine);
-            this.panel2.Location = new System.Drawing.Point(7, -96);
+            this.panel2.Location = new System.Drawing.Point(7, -1012);
             this.panel2.Name = "panel2";
             this.panel2.Size = new System.Drawing.Size(366, 36);
             this.panel2.TabIndex = 2;
@@ -87,9 +86,9 @@
                         | System.Windows.Forms.AnchorStyles.Right)));
             this.HorizontalLine.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.HorizontalLine.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.HorizontalLine.Location = new System.Drawing.Point(7, 180);
+            this.HorizontalLine.Location = new System.Drawing.Point(1, -722);
             this.HorizontalLine.Name = "HorizontalLine";
-            this.HorizontalLine.Size = new System.Drawing.Size(366, 20);
+            this.HorizontalLine.Size = new System.Drawing.Size(366, 2);
             this.HorizontalLine.TabIndex = 1;
             this.HorizontalLine.Click += new System.EventHandler(this.HorizontalLine_Click);
             // 
@@ -150,7 +149,6 @@
             this.Text = "Form1";
             this.K1OptionsGroupBox.ResumeLayout(false);
             this.K1OptionsGroupBox.PerformLayout();
-            this.panel2.ResumeLayout(false);
             this.panel1.ResumeLayout(false);
             this.ResumeLayout(false);
             this.PerformLayout();

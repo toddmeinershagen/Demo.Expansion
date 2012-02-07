@@ -1,10 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
 using System.Windows.Forms;
 
 namespace Demo.Expansion
@@ -14,6 +9,49 @@ namespace Demo.Expansion
         public K1OptionsForm()
         {
             InitializeComponent();
+        }
+
+        private void BindOptions()
+        {
+            OptionsTableLayout.RowCount = Options.Count;
+
+            for (int i = 0; i < Options.Count; i++)
+            {
+                var button = new RadioButton();
+                button.Text = Options[i];
+
+                var position = new TableLayoutPanelCellPosition(0, i);
+                OptionsTableLayout.SetCellPosition(button, position);
+                OptionsTableLayout.Controls.Add(button);
+            }
+        }
+
+        private List<string> GetOptions()
+        {
+            const int maxOptions = 20;
+            var numberGenerator = new Random();
+            var numberOfOptions = numberGenerator.Next(maxOptions);
+
+            var options = new List<string>();
+            for (int i = 0; i < numberOfOptions; i++)
+            {
+                options.Add(string.Format("Option{0}", i));
+            }
+
+            return options;
+        }
+
+        public List<string> Options { get; set; }
+
+        private void GenerateButton_Click(object sender, EventArgs e)
+        {
+            Options = GetOptions();
+            BindOptions();
+        }
+
+        private void CancelButton_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
         }
     }
 }
