@@ -46,6 +46,18 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="K1OptionsControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="K1OptionsControl.Designer.cs">
+      <DependentUpon>K1OptionsControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="K1OptionsControlStatic.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="K1OptionsControlStatic.Designer.cs">
+      <DependentUpon>K1OptionsControlStatic.cs</DependentUpon>
+    </Compile>
     <Compile Include="K1OptionsForm.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -54,6 +66,12 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="K1OptionsControl.resx">
+      <DependentUpon>K1OptionsControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="K1OptionsControlStatic.resx">
+      <DependentUpon>K1OptionsControlStatic.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="K1OptionsForm.resx">
       <DependentUpon>K1OptionsForm.cs</DependentUpon>
     </EmbeddedResource>

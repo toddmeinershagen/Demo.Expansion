@@ -7,8 +7,46 @@
     </boolean>
   </SettingsComponent>
   <RecentFiles>
-    <RecentFiles />
-    <RecentEdits />
+    <RecentFiles>
+      <File id="2E13147F-AECC-4C22-82ED-BCA7CAF3FF38/f:Program.cs" caret="13" fromTop="0" />
+      <File id="2E13147F-AECC-4C22-82ED-BCA7CAF3FF38/f:K1OptionsForm.cs" caret="783" fromTop="30" />
+      <File id="2E13147F-AECC-4C22-82ED-BCA7CAF3FF38/f:K1OptionsForm.Designer.cs" caret="1240" fromTop="13" />
+      <File id="2E13147F-AECC-4C22-82ED-BCA7CAF3FF38/f:K1OptionsControl.cs" caret="850" fromTop="28" />
+      <File id="2E13147F-AECC-4C22-82ED-BCA7CAF3FF38/f:K1OptionsControl.Designer.cs" caret="675" fromTop="21" />
+      <File id="2E13147F-AECC-4C22-82ED-BCA7CAF3FF38/f:K1OptionsControlStatic.cs" caret="433" fromTop="17" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="2E13147F-AECC-4C22-82ED-BCA7CAF3FF38/f:K1OptionsForm.cs" caret="264" fromTop="17" />
+      <File id="2E13147F-AECC-4C22-82ED-BCA7CAF3FF38/f:K1OptionsForm.cs" caret="264" fromTop="21" />
+      <File id="2E13147F-AECC-4C22-82ED-BCA7CAF3FF38/f:K1OptionsForm.Designer.cs" caret="4887" fromTop="10" />
+      <File id="2E13147F-AECC-4C22-82ED-BCA7CAF3FF38/f:K1OptionsForm.Designer.cs" caret="4887" fromTop="14" />
+      <File id="2E13147F-AECC-4C22-82ED-BCA7CAF3FF38/f:K1OptionsForm.cs" caret="264" fromTop="28" />
+      <File id="2E13147F-AECC-4C22-82ED-BCA7CAF3FF38/f:K1OptionsControl.cs" caret="626" fromTop="21" />
+      <File id="2E13147F-AECC-4C22-82ED-BCA7CAF3FF38/f:K1OptionsForm.cs" caret="264" fromTop="13" />
+      <File id="2E13147F-AECC-4C22-82ED-BCA7CAF3FF38/f:K1OptionsForm.cs" caret="703" fromTop="30" />
+      <File id="2E13147F-AECC-4C22-82ED-BCA7CAF3FF38/f:K1OptionsForm.cs" caret="466" fromTop="17" />
+      <File id="2E13147F-AECC-4C22-82ED-BCA7CAF3FF38/f:K1OptionsForm.cs" caret="570" fromTop="20" />
+      <File id="2E13147F-AECC-4C22-82ED-BCA7CAF3FF38/f:K1OptionsControl.cs" caret="324" fromTop="7" />
+      <File id="2E13147F-AECC-4C22-82ED-BCA7CAF3FF38/f:K1OptionsControl.Designer.cs" caret="0" fromTop="0" />
+      <File id="2E13147F-AECC-4C22-82ED-BCA7CAF3FF38/f:K1OptionsForm.cs" caret="783" fromTop="30" />
+      <File id="2E13147F-AECC-4C22-82ED-BCA7CAF3FF38/f:K1OptionsForm.cs" caret="1088" fromTop="30" />
+      <File id="2E13147F-AECC-4C22-82ED-BCA7CAF3FF38/f:K1OptionsControl.Designer.cs" caret="5894" fromTop="21" />
+      <File id="2E13147F-AECC-4C22-82ED-BCA7CAF3FF38/f:K1OptionsControlStatic.cs" caret="1035" fromTop="24" />
+      <File id="2E13147F-AECC-4C22-82ED-BCA7CAF3FF38/f:K1OptionsControl.Designer.cs" caret="5814" fromTop="21" />
+      <File id="2E13147F-AECC-4C22-82ED-BCA7CAF3FF38/f:K1OptionsControl.cs" caret="873" fromTop="35" />
+      <File id="2E13147F-AECC-4C22-82ED-BCA7CAF3FF38/f:K1OptionsControlStatic.cs" caret="817" fromTop="26" />
+      <File id="2E13147F-AECC-4C22-82ED-BCA7CAF3FF38/f:K1OptionsForm.Designer.cs" caret="5137" fromTop="43" />
+      <File id="2E13147F-AECC-4C22-82ED-BCA7CAF3FF38/f:K1OptionsForm.Designer.cs" caret="1240" fromTop="13" />
+      <File id="2E13147F-AECC-4C22-82ED-BCA7CAF3FF38/f:K1OptionsControlStatic.cs" caret="756" fromTop="26" />
+      <File id="2E13147F-AECC-4C22-82ED-BCA7CAF3FF38/f:K1OptionsControl.cs" caret="33" fromTop="0" />
+      <File id="2E13147F-AECC-4C22-82ED-BCA7CAF3FF38/f:K1OptionsControl.cs" caret="850" fromTop="28" />
+      <File id="2E13147F-AECC-4C22-82ED-BCA7CAF3FF38/f:K1OptionsControl.Designer.cs" caret="5814" fromTop="21" />
+      <File id="2E13147F-AECC-4C22-82ED-BCA7CAF3FF38/f:K1OptionsControlStatic.cs" caret="1089" fromTop="36" />
+      <File id="2E13147F-AECC-4C22-82ED-BCA7CAF3FF38/f:K1OptionsControlStatic.cs" caret="33" fromTop="0" />
+      <File id="2E13147F-AECC-4C22-82ED-BCA7CAF3FF38/f:K1OptionsControlStatic.cs" caret="1114" fromTop="0" />
+      <File id="2E13147F-AECC-4C22-82ED-BCA7CAF3FF38/f:K1OptionsControl.Designer.cs" caret="5814" fromTop="21" />
+      <File id="2E13147F-AECC-4C22-82ED-BCA7CAF3FF38/f:K1OptionsControlStatic.cs" caret="433" fromTop="17" />
+    </RecentEdits>
   </RecentFiles>
   <NAntValidationSettings>
     <NAntPath value="" />
@@ -20,4 +58,111 @@
     <NUnitInstallDir>C:\Program Files (x86)\NUnit 2.4.1\bin\net-2.0\</NUnitInstallDir>
     <UseAddins>Never</UseAddins>
   </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="string" priority="1" />
+      <Item value="private" priority="3" />
+      <Item value="List" priority="6" />
+      <Item value="_options" priority="4" />
+      <Item value="options" priority="2" />
+      <Item value="foreach" priority="2" />
+      <Item value="var" priority="11" />
+      <Item value="in" priority="1" />
+      <Item value="int" priority="6" />
+      <Item value="i" priority="9" />
+      <Item value="RadioButton`0" priority="1" />
+      <Item value="new" priority="12" />
+      <Item value="RadioButton" priority="0" />
+      <Item value="button" priority="3" />
+      <Item value="OptionLayoutPanel" priority="1" />
+      <Item value="public" priority="3" />
+      <Item value="List&lt;string&gt;" priority="3" />
+      <Item value="return" priority="1" />
+      <Item value="value" priority="0" />
+      <Item value="Options" priority="12" />
+      <Item value="BindOptions`0" priority="1" />
+      <Item value="if" priority="1" />
+      <Item value="else" priority="0" />
+      <Item value="Label`0" priority="0" />
+      <Item value="false" priority="1" />
+      <Item value="Font" priority="0" />
+      <Item value="true" priority="1" />
+      <Item value="StringAlignment`0" priority="0" />
+      <Item value="numberGenerator" priority="0" />
+      <Item value="const" priority="1" />
+      <Item value="numberOfOptions" priority="0" />
+      <Item value="GetOptions`0" priority="1" />
+      <Item value="Application`0" priority="0" />
+      <Item value="OptionsLayoutPanel" priority="7" />
+      <Item value="for" priority="1" />
+      <Item value="HorizontalLine" priority="0" />
+      <Item value="_currentRowNumber" priority="1" />
+      <Item value="OptionsTableLayout" priority="1" />
+      <Item value="void" priority="0" />
+      <Item value="this" priority="0" />
+      <Item value="OptionsPanel" priority="5" />
+      <Item value="DataSource" priority="3" />
+      <Item value="option" priority="0" />
+      <Item value="optionTitle" priority="0" />
+      <Item value="height" priority="1" />
+      <Item value="Size" priority="1" />
+      <Item value="maxNumberOfOptions" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Count" priority="3" />
+      <Item value="Add`0" priority="1" />
+      <Item value="Clear`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.RadioButton">
+      <Item value="Text" priority="1" />
+      <Item value="Font" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.TableLayoutPanel">
+      <Item value="SetCellPosition`0" priority="0" />
+      <Item value="Controls" priority="7" />
+      <Item value="RowCount" priority="3" />
+      <Item value="AutoSize" priority="0" />
+      <Item value="ResetBindings`0" priority="0" />
+      <Item value="GetCellPosition`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.TableLayoutControlCollection">
+      <Item value="Add`0" priority="0" />
+      <Item value="Clear`0" priority="1" />
+      <Item value="RemoveAt`0" priority="1" />
+      <Item value="Count" priority="0" />
+      <Item value="Remove`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Drawing.Font">
+      <Item value="Bold" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Random">
+      <Item value="Next`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Format`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.Application">
+      <Item value="Exit`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.TableLayoutRowStyleCollection">
+      <Item value="RemoveAt`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Demo.Expansion.K1OptionsForm">
+      <Item value="k1OptionsControl1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Panel">
+      <Item value="ControlAdded" priority="0" />
+      <Item value="Controls" priority="0" />
+      <Item value="Size" priority="2" />
+      <Item value="Refresh`0" priority="1" />
+      <Item value="Height" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Control+ControlCollection">
+      <Item value="Clear`0" priority="0" />
+      <Item value="Add`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Drawing.Size">
+      <Item value="Height" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
 </Configuration>
